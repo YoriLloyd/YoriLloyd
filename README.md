@@ -4,7 +4,7 @@
 <br>
 <div align="center">
 <!-- <a href="https://discord.com/users/1216200643128328294" > -->
-  <a href="https://egirl.ing/" >
+<!--   <a href="https://egirl.ing/"> -->
    <img src="https://lanyard.kyrie25.me/api/1216200643128328294"/>
   </a>
     <br>
