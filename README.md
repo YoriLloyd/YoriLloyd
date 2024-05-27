@@ -21,7 +21,7 @@
 <div>
 <h2 align="center"> 😸 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 😸 </h2>
   <div align="center">
-<img src="https://tenor.com/b2pqW.gif" align="right">
+<img src="https://imgur.com/a/0mFhEPW" align="right">
   </div>
 <li>
  <b>Name:</b> Yori</li>
