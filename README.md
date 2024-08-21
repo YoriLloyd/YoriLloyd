@@ -5,7 +5,7 @@
 <div align="center">
 <!-- <a href="https://discord.com/users/1216200643128328294" > -->
 <!--   <a href="https://egirl.ing/"> -->
-   <img src="https://lanyard.kyrie25.me/api/1216200643128328294"/>
+<!--    <img src="https://lanyard.kyrie25.me/api/1216200643128328294"/> -->
   </a>
     <br>
   <p>𝗜 𝗟𝗶𝗸𝗲 𝗕𝗲𝗶𝗻𝗴 𝗔𝗹𝗼𝗻𝗲</p>
