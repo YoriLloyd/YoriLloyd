@@ -21,7 +21,7 @@
 <img src="https://i.imgur.com/K9LttV2.gif" align="right" width="25%">
   </div>
 <li>
- <b>Name:</b> Yori</li>
+ <b>Name:</b> Daniel</li>
 <li>
 <b>Loves:</b> anime
 </li>
@@ -51,9 +51,9 @@
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
-<p align="center">Hewe awe some of my <br>
+<p align="center">Here awe some of my <br>
 most used social things >~<</p>
-<p align="center"><a href="https://www.youtube.com/channel/UCEygoqHR8macLLH_79ngdUg" target="_blank"><img src="https://img.shields.io/badge/YoriLloyd%20-%231DA1F2.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/></a></p>
+<!-- <p align="center"><a href="https://www.youtube.com/channel/UCEygoqHR8macLLH_79ngdUg" target="_blank"><img src="https://img.shields.io/badge/YoriLloyd%20-%231DA1F2.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/></a></p> -->
 </div>
 <br>
 <div>
