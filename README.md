@@ -7,7 +7,6 @@
     <p>🌸 ⋆｡°✩°｡⋆ 🌸</p>
     <br>
 
-    <!-- 🌼 ABOUT ME 🌼 -->
   <div>
       <h2 align="center">😸 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 😸</h2>
       <img src="https://i.imgur.com/K9LttV2.gif" align="right" width="25%">
@@ -24,7 +23,6 @@
     <p>🌷 ⋆｡°✩°｡⋆ 🌷</p>
     <br>
 
-    <!-- 📚 KNOWLEDGE 📚 -->
   <div>
       <h2 align="center">📇 ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~ 📇</h2>
       <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right" width="25%">
@@ -40,7 +38,6 @@
     <p>🌼 ⋆｡°✩°｡⋆ 🌼</p>
     <br>
 
-    <!-- 💌 CONTACT 💌 -->
   <div>
       <h2 align="center">📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
       <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="350px">
@@ -62,7 +59,6 @@
     <p>💖 ⋆｡°✩°｡⋆ 💖</p>
     <br>
 
-    <!-- 🌟 THANKS 🌟 -->
   <div>
       <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴 𝔂𝓸𝓾 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
       <p align="center">Made with 💕 by Daniel</p>
