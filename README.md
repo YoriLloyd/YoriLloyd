@@ -45,11 +45,11 @@
         Here are some of my <br> favorite social links 💬
       </p>
       <p align="center">
-        <!-- <a href="https://discord.com/users/1216200643128328294" target="_blank"> -->
-          <img src="https://www.google.com/"/>
+        <a href="https://www.google.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Discord%20-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
         </a>
-        <!-- <a href="https://www.youtube.com/channel/UCEygoqHR8macLLH_79ngdUg" target="_blank"> -->
-          <img src="https://www.google.com/"/>
+        <a href="https://www.google.com/" target="_blank">
+          <img src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
         </a>
       </p>
       <br clear="right">
